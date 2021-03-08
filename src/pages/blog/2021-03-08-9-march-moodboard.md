@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 9 March - Moodboard
+title: 9th March - Moodboard
 date: 2021-03-08T21:30:54.743Z
 description: Initial documentation of an exploration of ideas and themes.
 featuredpost: true
