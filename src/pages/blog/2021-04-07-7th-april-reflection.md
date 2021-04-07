@@ -6,13 +6,13 @@ description: Reflection
 featuredpost: true
 featuredimage: /img/79b0f445bb3c3e054a98c6f8e809657d.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ featuredimage: /img/79b0f445bb3c3e054a98c6f8e809657d.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ featuredimage: /img/79b0f445bb3c3e054a98c6f8e809657d.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,7 +658,7 @@ featuredimage: /img/79b0f445bb3c3e054a98c6f8e809657d.jpg
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -668,7 +668,7 @@ As well as this I now feel like I understand how to approach the design of a web
 
 I also learned more about what I can and cannot do with website design. I feel more confident with CSS and html, and I am able to understand and use examples from sources such as bootstrap.
 
-In general I have a much greater understanding of the web design landscape, and the software and aspects used to launch and design a website.    
+In general, I have a much greater understanding of the web design landscape, and the software and aspects used to launch and design a website.    
 
 Having the confidence and familiarity with these processes, as I feel I already did with print design will be the most beneficial thing for me from this project as it will allow me to work cohesively with others in a situation with real clients. I am confident that I can now have an organized design process, which will allow to work quicker and be able to easily share my ideas with others in a team environment, or clients.
 
